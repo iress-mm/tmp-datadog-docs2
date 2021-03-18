@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "datadog"
+  description: "all things datadog"
+  annotations:
+    github.com/project-slug: iress-mm/tmp-datadog-docs2
+    backstage.io/techdocs-ref: url:https://github.com/iress-mm/tmp-datadog-docs2
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "iress-mm"

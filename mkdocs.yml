@@ -1,0 +1,8 @@
+site_name: "datadog"
+site_description: "all things datadog"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
